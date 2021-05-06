@@ -1,3 +1,4 @@
 # Hello-World
-
-Hello my name is Juan Cruz. Good day mate!
+Good day mate!
+## Author
+Juan D. Cruz Jr.
